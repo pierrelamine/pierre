@@ -1,0 +1,84 @@
+nav{
+    background-color: rgb(213, 250, 246);
+    box-shadow: 0px 2px ;
+    
+}
+.nav-link active{
+    margin-left: 20px;
+}
+.btn{
+    background-color: #457B9D;
+    color: rgb(213, 250, 246);
+}
+#btn{
+    background-color: rgb(213, 250, 246) ;
+    color: #457B9D ;
+}
+
+
+header{
+    background-color: rgb(213, 250, 246);
+    height: 400px;
+    margin-top: -50px;
+
+}
+.main{
+    background-color: rgb(213, 250, 246);
+}
+#My{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    background-color:#457B9D  ;
+    
+}
+.mt{
+    margin-top: 70px;
+}
+#ss{
+    color: #457B9D ;
+}
+.about{
+    margin-top: 0px;
+    margin-left: 30px;
+
+}
+.g{
+    gap: 10px;
+}
+.Skill{
+    background-color: rgb(213, 250, 246);
+    text-align: center;
+    height: 300px;
+}
+
+
+.img{
+    height: 400px;
+}
+.img1{
+    width: 50px;
+    display: flex;
+    text-align: center;
+    gap: 25px;
+    align-items: center;
+    
+    
+}
+.prot{
+    gap: 50px;
+    margin-left: 50px;
+}
+
+
+.footer{
+    margin-top: 50px;
+    margin-left: 80px;
+    background-color: rgb(213, 250, 246);
+
+}
+footer{
+    background-color: rgb(213, 250, 246);
+    height: 250px;
+
+}
